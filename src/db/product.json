@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "image": "product1.jpg",
+    "name": "만다리노 디 아말피 오 드 퍼퓸",
+    "price": "340000"
+  },
+  {
+    "id": 2,
+    "image": "product2.jpg",
+    "name": "바닐라 오 드 퍼퓸",
+    "price": "421000"
+  },
+  {
+    "id": 3,
+    "image": "product3.jpg",
+    "name": "네롤리 포르토피노 오 드 퍼퓸",
+    "price": "305000"
+  },
+  {
+    "id": 4,
+    "image": "product4.jpg",
+    "name": "블랙 오키드 오 드 뚜왈렛",
+    "price": "140000"
+  }
+]
