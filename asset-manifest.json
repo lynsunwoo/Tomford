@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tomford/static/css/main.b34b3685.css",
+    "main.js": "/Tomford/static/js/main.b246369b.js",
+    "index.html": "/Tomford/index.html",
+    "main.b34b3685.css.map": "/Tomford/static/css/main.b34b3685.css.map",
+    "main.b246369b.js.map": "/Tomford/static/js/main.b246369b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34b3685.css",
+    "static/js/main.b246369b.js"
+  ]
+}
